@@ -17,7 +17,8 @@ https://www.youtube.com/watch?v=RGa6jfMfZ_8
 4. yet
 
 5. report
-
+https://www.nis.go.kr/CM/1_7_2.do
+https://ecrm.police.go.kr/minwon/main
 
 # w
 will be just a data set for ai? idk 
